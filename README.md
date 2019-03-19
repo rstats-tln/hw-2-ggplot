@@ -1,4 +1,4 @@
-# Homework-1: ggplot
+# Homework-2: ggplot
 
 The goal of this homework is to learn using facetting and plot statistical transformations.
 
